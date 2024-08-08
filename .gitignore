@@ -1,0 +1,5 @@
+.venv
+go.mod
+go.sum
+main.go
+avl.html
