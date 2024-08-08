@@ -1,0 +1,8 @@
+* Sometimes bugs get fixed in
+later versions of APIs
+
+* Buuuuut the older API may still
+exist AND have the same bugs
+
+¢ Sometimes these older versions
+get deleted, but sometimes they
